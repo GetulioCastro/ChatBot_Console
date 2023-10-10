@@ -71,7 +71,7 @@ namespace ChatBot.entities
         {
             // Aqui você pode implementar a lógica para responder ao cliente com base em sua pergunta.
             // Por enquanto, estamos fornecendo uma resposta simples.
-            return "Obrigado por sua pergunta. Em breve, um atendente irá ajudá-lo.";
+            return "Obrigado por sua pergunta. Em breve, um atendente entrará em contato.";
         }
 
         private void SimularDigitacao()
